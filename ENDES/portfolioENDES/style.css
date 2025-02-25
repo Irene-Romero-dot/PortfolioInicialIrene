@@ -294,7 +294,7 @@ span {
     margin-bottom: 8px;
 }
 
-/*Tamaño y posicón de los botones*/
+/*Posiciones y tamañps de las ventanas*/
 #window0 {	top: 113px;	left: 1110px;}
 #window1 {	top: 200px; left: 90px;}
 #window2 {	top: 300px; left: 80px;}
@@ -302,7 +302,7 @@ span {
 #window0 .wincontent {	width: 660px; height: 800px;	}
 #window1 .wincontent {	width: 500px; height: 300px;	}
 #window2 .wincontent {	width: 350px; height: 400px;	}
-#window3 .wincontent {	width: 300px; height: 100px;	}
+#window3 .wincontent {	width: 50px; height: 250px;	}
 @media screen and (max-width:960px){
 	#window0 {	left: 10px;	}
 	#window3 {	left: 50px;	}
